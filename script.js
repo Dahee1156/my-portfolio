@@ -34,6 +34,12 @@ const animeList = [
     genre: "Romance",
     image: "https://m.media-amazon.com/images/M/MV5BYmQyNWI1ZTgtMTgzNC00ZGIyLTg3NWMtZmM2ZjMzNTNjOTU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     episodes: [{ title: "Series Trailer", video: "https://www.youtube-nocookie.com/embed/v-ajpK25ajw" }]
+  },
+   {
+    title: "Rent-A-Girlfriend",
+    genre: "Romance",
+    image: "https://m.media-amazon.com/images/M/MV5BYmQyNWI1ZTgtMTgzNC00ZGIyLTg3NWMtZmM2ZjMzNTNjOTU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    episodes: [{ title: "Series Trailer", video: "https://www.youtube-nocookie.com/embed/v-ajpK25ajw" }]
   }
 ];
 
